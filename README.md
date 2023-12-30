@@ -6,4 +6,4 @@ This repository contains programs created for my masters thesis, along with data
 * data: This contains data computed about totally geodesic surfaces up to a certain complexity.
 
 For more info, see the readme file in the relevant directory.
-I'll add a link to my thesis here later, as most things in this repository won't make any sense without reference to it.
+I'll add the thesis here later, as most things in this repository won't make any sense without reference to it.
